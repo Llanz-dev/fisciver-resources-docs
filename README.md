@@ -59,6 +59,14 @@ Each simulation is designed to:
 
 ---
 
+## 🎥 Demo
+
+Watch the system in action:
+
+👉 [Click here to view the demo](https://www.youtube.com/watch?v=OC9-n6rjmNM)
+
+---
+
 ## 🚀 Deployment
 
 The system is currently deployed and accessible online for academic use.
