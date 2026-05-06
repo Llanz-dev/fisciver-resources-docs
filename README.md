@@ -6,13 +6,23 @@
 
 ## 🎯 Project Overview
 
-Fisciver is an educational web application developed to support students—particularly at the junior high school level—in learning physics through interactive simulation.
+FiSciVer is an educational web application developed to support students—particularly at the junior high school level—in learning physics through interactive simulation.
 
-Instead of relying purely on theoretical explanations, the system allows users to visualize and interact with physics concepts in real time, helping improve understanding and engagement.
+The system was successfully deployed as a pilot and used for one month in an actual classroom setting, where it was utilized by physics teachers and students during instruction. This real-world implementation validated its effectiveness in improving student engagement and conceptual understanding.
+
+Instead of relying purely on theoretical explanations, the platform enables users to visualize and interact with physics concepts in real time, making learning more intuitive and engaging.
 
 The platform is currently being used in an academic setting as part of a master’s thesis implementation.
 
 ---
+
+## 🚀 Deployment
+- ✅ Deployed on Vercel for fast and reliable access
+- ✅ Successfully implemented as a 1-month classroom pilot
+- ✅ Actively used by physics teachers and students during lessons
+- 🔒 Access may be restricted depending on deployment configuration
+
+--
 
 ## 🧱 Tech Stack
 
